@@ -8,44 +8,44 @@
     <ContentPage.Content>
         <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
             <StackLayout Orientation="Horizontal">
-                <Button x:Name="A_Button" Text="A" WidthRequest="80" Margin="10" CornerRadius="40" HeightRequest="80" Clicked="A_Clicked" BackgroundColor="White"/>
-                <Button x:Name="B_Button" Text="B" WidthRequest="80" Margin="10" CornerRadius="40" HeightRequest="80" Clicked="B_Clicked" BackgroundColor="White"/>
-                <Button x:Name="C_Button" Text="C" WidthRequest="80" Margin="10" CornerRadius="40" HeightRequest="80" Clicked="C_Clicked" BackgroundColor="White"/>
-                <Button x:Name="D_Button" Text="D" WidthRequest="80" Margin="10" CornerRadius="40" HeightRequest="80" Clicked="D_Clicked" BackgroundColor="White"/>
+                <Button x:Name="A_Button" Text="A" WidthRequest="60"  CornerRadius="40" HeightRequest="60" Clicked="A_Clicked" BackgroundColor="White"/>
+                <Button x:Name="B_Button" Text="B" WidthRequest="60"  CornerRadius="40" HeightRequest="60" Clicked="B_Clicked" BackgroundColor="White"/>
+                <Button x:Name="C_Button" Text="C" WidthRequest="60"  CornerRadius="40" HeightRequest="60" Clicked="C_Clicked" BackgroundColor="White"/>
+                <Button x:Name="D_Button" Text="D" WidthRequest="60"  CornerRadius="40" HeightRequest="60" Clicked="D_Clicked" BackgroundColor="White"/>
             </StackLayout>
             <StackLayout Orientation="Horizontal">
-                <Button x:Name="E_Button" Text="E" WidthRequest="80" Margin="10" CornerRadius="40" HeightRequest="80" Clicked="E_Clicked" BackgroundColor="White"/>
-                <Button x:Name="F_Button" Text="F" WidthRequest="80" Margin="10" CornerRadius="40" HeightRequest="80" Clicked="F_Clicked" BackgroundColor="White"/>
-                <Button x:Name="G_Button" Text="G" WidthRequest="80" Margin="10" CornerRadius="40" HeightRequest="80" Clicked="G_Clicked" BackgroundColor="White"/>
-                <Button x:Name="H_Button" Text="H" WidthRequest="80" Margin="10" CornerRadius="40" HeightRequest="80" Clicked="H_Clicked" BackgroundColor="White"/>
+                <Button x:Name="E_Button" Text="E" WidthRequest="60"  CornerRadius="40" HeightRequest="60" Clicked="E_Clicked" BackgroundColor="White"/>
+                <Button x:Name="F_Button" Text="F" WidthRequest="60"  CornerRadius="40" HeightRequest="60" Clicked="F_Clicked" BackgroundColor="White"/>
+                <Button x:Name="G_Button" Text="G" WidthRequest="60"  CornerRadius="40" HeightRequest="60" Clicked="G_Clicked" BackgroundColor="White"/>
+                <Button x:Name="H_Button" Text="H" WidthRequest="60"  CornerRadius="40" HeightRequest="60" Clicked="H_Clicked" BackgroundColor="White"/>
             </StackLayout>
             <StackLayout Orientation="Horizontal">
-                <Button x:Name="I_Button" Text="I" WidthRequest="80" Margin="10" CornerRadius="40" HeightRequest="80" Clicked="I_Clicked" BackgroundColor="White"/>
-                <Button x:Name="J_Button" Text="J" WidthRequest="80" Margin="10" CornerRadius="40" HeightRequest="80" Clicked="J_Clicked" BackgroundColor="White"/>
-                <Button x:Name="K_Button" Text="K" WidthRequest="80" Margin="10" CornerRadius="40" HeightRequest="80" Clicked="K_Clicked" BackgroundColor="White"/>
-                <Button x:Name="L_Button" Text="L" WidthRequest="80" Margin="10" CornerRadius="40" HeightRequest="80" Clicked="L_Clicked" BackgroundColor="White"/>
+                <Button x:Name="I_Button" Text="I" WidthRequest="60" CornerRadius="40" HeightRequest="60" Clicked="I_Clicked" BackgroundColor="White"/>
+                <Button x:Name="J_Button" Text="J" WidthRequest="60" CornerRadius="40" HeightRequest="60" Clicked="J_Clicked" BackgroundColor="White"/>
+                <Button x:Name="K_Button" Text="K" WidthRequest="60" CornerRadius="40" HeightRequest="60" Clicked="K_Clicked" BackgroundColor="White"/>
+                <Button x:Name="L_Button" Text="L" WidthRequest="60" CornerRadius="40" HeightRequest="60" Clicked="L_Clicked" BackgroundColor="White"/>
             </StackLayout>
             <StackLayout Orientation="Horizontal">
-                <Button x:Name="M_Button" Text="M" WidthRequest="80" Margin="10" CornerRadius="40" HeightRequest="80" Clicked="M_Clicked" BackgroundColor="White"/>
-                <Button x:Name="N_Button" Text="N" WidthRequest="80" Margin="10" CornerRadius="40" HeightRequest="80" Clicked="N_Clicked" BackgroundColor="White"/>
-                <Button x:Name="O_Button" Text="O" WidthRequest="80" Margin="10" CornerRadius="40" HeightRequest="80" Clicked="O_Clicked" BackgroundColor="White"/>
-                <Button x:Name="P_Button" Text="P" WidthRequest="80" Margin="10" CornerRadius="40" HeightRequest="80" Clicked="P_Clicked" BackgroundColor="White"/>
+                <Button x:Name="M_Button" Text="M" WidthRequest="60" CornerRadius="40" HeightRequest="60" Clicked="M_Clicked" BackgroundColor="White"/>
+                <Button x:Name="N_Button" Text="N" WidthRequest="60" CornerRadius="40" HeightRequest="60" Clicked="N_Clicked" BackgroundColor="White"/>
+                <Button x:Name="O_Button" Text="O" WidthRequest="60" CornerRadius="40" HeightRequest="60" Clicked="O_Clicked" BackgroundColor="White"/>
+                <Button x:Name="P_Button" Text="P" WidthRequest="60" CornerRadius="40" HeightRequest="60" Clicked="P_Clicked" BackgroundColor="White"/>
             </StackLayout>
             <StackLayout Orientation="Horizontal">
-                <Button x:Name="Q_Button" Text="Q" WidthRequest="80" Margin="10" CornerRadius="40" HeightRequest="80" Clicked="Q_Clicked" BackgroundColor="White"/>
-                <Button x:Name="R_Button" Text="R" WidthRequest="80" Margin="10" CornerRadius="40" HeightRequest="80" Clicked="R_Clicked" BackgroundColor="White"/>
-                <Button x:Name="S_Button" Text="S" WidthRequest="80" Margin="10" CornerRadius="40" HeightRequest="80" Clicked="S_Clicked" BackgroundColor="White"/>
-                <Button x:Name="T_Button" Text="T" WidthRequest="80" Margin="10" CornerRadius="40" HeightRequest="80" Clicked="T_Clicked" BackgroundColor="White"/>
+                <Button x:Name="Q_Button" Text="Q" WidthRequest="60" CornerRadius="40" HeightRequest="60" Clicked="Q_Clicked" BackgroundColor="White"/>
+                <Button x:Name="R_Button" Text="R" WidthRequest="60" CornerRadius="40" HeightRequest="60" Clicked="R_Clicked" BackgroundColor="White"/>
+                <Button x:Name="S_Button" Text="S" WidthRequest="60" CornerRadius="40" HeightRequest="60" Clicked="S_Clicked" BackgroundColor="White"/>
+                <Button x:Name="T_Button" Text="T" WidthRequest="60" CornerRadius="40" HeightRequest="60" Clicked="T_Clicked" BackgroundColor="White"/>
             </StackLayout>
             <StackLayout Orientation="Horizontal">
-                <Button x:Name="U_Button" Text="U" WidthRequest="80" Margin="10" CornerRadius="40" HeightRequest="80" Clicked="U_Clicked" BackgroundColor="White"/>
-                <Button x:Name="V_Button" Text="V" WidthRequest="80" Margin="10" CornerRadius="40" HeightRequest="80" Clicked="V_Clicked" BackgroundColor="White"/>
-                <Button x:Name="W_Button" Text="W" WidthRequest="80" Margin="10" CornerRadius="40" HeightRequest="80" Clicked="W_Clicked" BackgroundColor="White"/>
-                <Button x:Name="X_Button" Text="X" WidthRequest="80" Margin="10" CornerRadius="40" HeightRequest="80" Clicked="X_Clicked" BackgroundColor="White"/>
+                <Button x:Name="U_Button" Text="U" WidthRequest="60" CornerRadius="40" HeightRequest="60" Clicked="U_Clicked" BackgroundColor="White"/>
+                <Button x:Name="V_Button" Text="V" WidthRequest="60" CornerRadius="40" HeightRequest="60" Clicked="V_Clicked" BackgroundColor="White"/>
+                <Button x:Name="W_Button" Text="W" WidthRequest="60" CornerRadius="40" HeightRequest="60" Clicked="W_Clicked" BackgroundColor="White"/>
+                <Button x:Name="X_Button" Text="X" WidthRequest="60" CornerRadius="40" HeightRequest="60" Clicked="X_Clicked" BackgroundColor="White"/>
             </StackLayout>
             <StackLayout Orientation="Horizontal">
-                <Button x:Name="Y_Button" Text="Y" WidthRequest="80" Margin="10" CornerRadius="40" HeightRequest="80" Clicked="Y_Clicked" BackgroundColor="White"/>
-                <Button x:Name="Z_Button" Text="Z" WidthRequest="80" Margin="10" CornerRadius="40" HeightRequest="80" Clicked="Z_Clicked" BackgroundColor="White"/>
+                <Button x:Name="Y_Button" Text="Y" WidthRequest="60" CornerRadius="40" HeightRequest="60" Clicked="Y_Clicked" BackgroundColor="White"/>
+                <Button x:Name="Z_Button" Text="Z" WidthRequest="60" CornerRadius="40" HeightRequest="60" Clicked="Z_Clicked" BackgroundColor="White"/>
             </StackLayout>
         </StackLayout>
     </ContentPage.Content>
