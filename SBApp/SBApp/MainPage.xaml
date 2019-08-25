@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="SBApp.MainPage" BackgroundColor="#48494B">
+
+    <StackLayout Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="Center" Margin="10">
+        <!-- Place new controls here -->
+        <Button Margin="50" Text="Spell It Right" BackgroundColor="White" CornerRadius="10" Grid.Row="1" Grid.Column="0" 
+                Clicked="SpellItRight_Click" HorizontalOptions="CenterAndExpand"  VerticalOptions="CenterAndExpand"/>
+        <Button Margin="50" Text="Learn Meanings" BackgroundColor="White" CornerRadius="10" Grid.Row="1" Grid.Column="1" 
+                Clicked="WordMeanings_Click"  HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"/>
+    </StackLayout>
+</ContentPage>
